@@ -1,2 +1,2 @@
 # semafor
-Mina ansible skrips
+Mina ansible skripts
