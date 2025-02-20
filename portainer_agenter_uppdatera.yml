@@ -1,5 +1,5 @@
 ---
-- name: Upgrade Portainer on AdGuard Home LXC container in Proxmox
+- name: Upgrade Portainer agents
   hosts: all
   become: yes
   tasks:
